@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu
+    destination: /
 permissions:
   - object: /home/ubuntu/docker.sh
     mode: 755
