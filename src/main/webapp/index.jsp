@@ -5,7 +5,6 @@
      <h2>Test value2</h2>
   <h2>Test value3</h2>
   <h2>Test value5</h2>
-  <h2>Test value4</h2>
-  <h2>Test value5+test</h2>
+  <h2>Test value4</h2
 </body>
 </html>
